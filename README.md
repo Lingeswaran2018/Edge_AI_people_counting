@@ -52,41 +52,11 @@ This will start the application and begin counting people from your webcam or vi
 
 ## How to Run the Project Locally
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```sh
 git clone https://github.com/lingeswaran2018/Edge_AI_people_counting.git
-cd people-counting
 ```
 
-### 2. Install Dependencies
 
-Make sure to install the required dependencies:
 
-```sh
-pip install -r requirements.txt
-```
-
-### 3. Run the Application
-
-Start the application by running:
-
-```sh
-python app.py
-```
-
-This will begin detecting people in the camera feed and output the count in real time.
-
----
-
-## Contributing
-
-Feel free to fork this repository and create pull requests if you want to contribute. Contributions can include bug fixes, feature enhancements, or optimizations.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
